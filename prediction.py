@@ -1,5 +1,6 @@
 import pandas as pd
-from model import load_model 
+from model import load_model
+import joblib
 
 # --- Setelan Fitur yang Sama Persis dengan Training ---
 MODEL_FILENAME = 'random_forest_regressor_model.pkl'
