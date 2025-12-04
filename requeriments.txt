@@ -1,5 +1,5 @@
 pandas
 numpy
-scikit-learn
-joblib
+scikit-learn==1.3.0  # Contoh versi stabil yang banyak digunakan
+joblib==1.3.2        # Pastikan versi joblib kompatibel (Cek versi di lokal Anda)
 streamlit
